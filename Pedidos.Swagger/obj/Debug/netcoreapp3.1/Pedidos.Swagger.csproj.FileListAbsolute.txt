@@ -1,0 +1,10 @@
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Swagger\bin\Debug\netcoreapp3.1\Pedidos.Swagger.deps.json
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Swagger\bin\Debug\netcoreapp3.1\Pedidos.Swagger.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Swagger\bin\Debug\netcoreapp3.1\Pedidos.Swagger.pdb
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Swagger\obj\Debug\netcoreapp3.1\Pedidos.Swagger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Swagger\obj\Debug\netcoreapp3.1\Pedidos.Swagger.AssemblyInfoInputs.cache
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Swagger\obj\Debug\netcoreapp3.1\Pedidos.Swagger.AssemblyInfo.cs
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Swagger\obj\Debug\netcoreapp3.1\Pedidos.Swagger.csproj.CoreCompileInputs.cache
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Swagger\obj\Debug\netcoreapp3.1\Pedidos.Swagger.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Swagger\obj\Debug\netcoreapp3.1\Pedidos.Swagger.pdb
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Swagger\obj\Debug\netcoreapp3.1\Pedidos.Swagger.csproj.AssemblyReference.cache

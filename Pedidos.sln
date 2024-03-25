@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pedidos", "Pedidos", "{D63D992A-DA33-4205-BFC2-12DC42E3100E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pedidos", "Pedidos\Pedidos.csproj", "{218862AC-1896-4F93-B315-29D5D23AC898}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pedidos.Application", "Pedidos.Application", "{DEF9FEE9-D8D7-475D-84F8-64F770DAC177}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pedidos.Application.Tests", "Pedidos.Application.Tests", "{10E51A19-9828-49B2-872D-E9FBECF0D4DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pedidos.Data", "Pedidos.Data", "{17AF9D3E-1EC9-4CD3-B9D6-F11D7A350B14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pedidos.Domain", "Pedidos.Domain", "{C3962058-EB9F-4AAC-978C-BD26588B8F9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pedidos.IoC", "Pedidos.IoC", "{8C837A3C-1FC3-4C3A-935D-C0C4CDEB6A83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pedidos.Swagger", "Pedidos.Swagger", "{0DC556DA-77BB-4F9E-8FE9-6658F5D46DF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pedidos.Application", "Pedidos.Application\Pedidos.Application.csproj", "{E28935AB-97AD-466A-A4FF-60648A4300C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pedidos.Application.Tests", "Pedidos.Application.Tests\Pedidos.Application.Tests.csproj", "{62037E7C-2AAA-4B9E-9240-665003A9ACF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pedidos.Data", "Pedidos.Data\Pedidos.Data.csproj", "{5F3BD3D1-0F5D-4F4E-8A81-0B4D549F4A91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pedidos.Domain", "Pedidos.Domain\Pedidos.Domain.csproj", "{600E880C-4C06-48C8-ACA1-03B8DC11F254}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pedidos.IoC", "Pedidos.IoC\Pedidos.IoC.csproj", "{D621CE72-13C4-42DC-9D8A-3A30583D5466}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pedidos.Swagger", "Pedidos.Swagger\Pedidos.Swagger.csproj", "{C2C05B36-BCD3-4719-8227-5ECE8D645FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218862AC-1896-4F93-B315-29D5D23AC898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218862AC-1896-4F93-B315-29D5D23AC898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218862AC-1896-4F93-B315-29D5D23AC898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218862AC-1896-4F93-B315-29D5D23AC898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E28935AB-97AD-466A-A4FF-60648A4300C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E28935AB-97AD-466A-A4FF-60648A4300C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E28935AB-97AD-466A-A4FF-60648A4300C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E28935AB-97AD-466A-A4FF-60648A4300C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62037E7C-2AAA-4B9E-9240-665003A9ACF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62037E7C-2AAA-4B9E-9240-665003A9ACF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62037E7C-2AAA-4B9E-9240-665003A9ACF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62037E7C-2AAA-4B9E-9240-665003A9ACF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3BD3D1-0F5D-4F4E-8A81-0B4D549F4A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3BD3D1-0F5D-4F4E-8A81-0B4D549F4A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3BD3D1-0F5D-4F4E-8A81-0B4D549F4A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3BD3D1-0F5D-4F4E-8A81-0B4D549F4A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{600E880C-4C06-48C8-ACA1-03B8DC11F254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600E880C-4C06-48C8-ACA1-03B8DC11F254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600E880C-4C06-48C8-ACA1-03B8DC11F254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600E880C-4C06-48C8-ACA1-03B8DC11F254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D621CE72-13C4-42DC-9D8A-3A30583D5466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D621CE72-13C4-42DC-9D8A-3A30583D5466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D621CE72-13C4-42DC-9D8A-3A30583D5466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D621CE72-13C4-42DC-9D8A-3A30583D5466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C05B36-BCD3-4719-8227-5ECE8D645FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C05B36-BCD3-4719-8227-5ECE8D645FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C05B36-BCD3-4719-8227-5ECE8D645FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C05B36-BCD3-4719-8227-5ECE8D645FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{218862AC-1896-4F93-B315-29D5D23AC898} = {D63D992A-DA33-4205-BFC2-12DC42E3100E}
+		{E28935AB-97AD-466A-A4FF-60648A4300C7} = {DEF9FEE9-D8D7-475D-84F8-64F770DAC177}
+		{62037E7C-2AAA-4B9E-9240-665003A9ACF3} = {10E51A19-9828-49B2-872D-E9FBECF0D4DA}
+		{5F3BD3D1-0F5D-4F4E-8A81-0B4D549F4A91} = {17AF9D3E-1EC9-4CD3-B9D6-F11D7A350B14}
+		{600E880C-4C06-48C8-ACA1-03B8DC11F254} = {C3962058-EB9F-4AAC-978C-BD26588B8F9B}
+		{D621CE72-13C4-42DC-9D8A-3A30583D5466} = {8C837A3C-1FC3-4C3A-935D-C0C4CDEB6A83}
+		{C2C05B36-BCD3-4719-8227-5ECE8D645FAB} = {0DC556DA-77BB-4F9E-8FE9-6658F5D46DF5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E57A592A-1877-45D9-B766-ABB63D13D919}
+	EndGlobalSection
+EndGlobal

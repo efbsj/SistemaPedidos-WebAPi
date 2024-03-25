@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EGArHuUsl8MEY8bYKfcKYMHaF80wGPDocJJH0o4eQ+oUPcrbcxvLc1MjNz+MD+nLpbl2/532vDbdzFzCNq9vkg==",
+  "success": true,
+  "projectFilePath": "C:\\Sistemas\\SistemaPedidos-WebAPi\\Pedidos.Swagger\\Pedidos.Swagger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fernando.sousa\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\fernando.sousa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\fernando.sousa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\fernando.sousa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

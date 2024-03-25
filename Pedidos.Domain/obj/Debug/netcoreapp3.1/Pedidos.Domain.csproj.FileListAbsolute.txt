@@ -1,0 +1,10 @@
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Domain\bin\Debug\netcoreapp3.1\Pedidos.Domain.deps.json
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Domain\bin\Debug\netcoreapp3.1\Pedidos.Domain.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Domain\bin\Debug\netcoreapp3.1\Pedidos.Domain.pdb
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Domain\obj\Debug\netcoreapp3.1\Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Domain\obj\Debug\netcoreapp3.1\Pedidos.Domain.AssemblyInfoInputs.cache
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Domain\obj\Debug\netcoreapp3.1\Pedidos.Domain.AssemblyInfo.cs
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Domain\obj\Debug\netcoreapp3.1\Pedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Domain\obj\Debug\netcoreapp3.1\Pedidos.Domain.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Domain\obj\Debug\netcoreapp3.1\Pedidos.Domain.pdb
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Domain\obj\Debug\netcoreapp3.1\Pedidos.Domain.csproj.AssemblyReference.cache

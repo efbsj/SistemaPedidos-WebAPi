@@ -1,0 +1,17 @@
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\bin\Debug\netcoreapp3.1\Pedidos.IoC.deps.json
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\bin\Debug\netcoreapp3.1\Pedidos.IoC.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\bin\Debug\netcoreapp3.1\Pedidos.IoC.pdb
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\bin\Debug\netcoreapp3.1\Pedidos.Application.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\bin\Debug\netcoreapp3.1\Pedidos.Data.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\bin\Debug\netcoreapp3.1\Pedidos.Domain.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\bin\Debug\netcoreapp3.1\Pedidos.Application.pdb
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\bin\Debug\netcoreapp3.1\Pedidos.Data.pdb
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\bin\Debug\netcoreapp3.1\Pedidos.Domain.pdb
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\obj\Debug\netcoreapp3.1\Pedidos.IoC.csproj.AssemblyReference.cache
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\obj\Debug\netcoreapp3.1\Pedidos.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\obj\Debug\netcoreapp3.1\Pedidos.IoC.AssemblyInfoInputs.cache
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\obj\Debug\netcoreapp3.1\Pedidos.IoC.AssemblyInfo.cs
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\obj\Debug\netcoreapp3.1\Pedidos.IoC.csproj.CoreCompileInputs.cache
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\obj\Debug\netcoreapp3.1\Pedidos.IoC.csproj.CopyComplete
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\obj\Debug\netcoreapp3.1\Pedidos.IoC.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.IoC\obj\Debug\netcoreapp3.1\Pedidos.IoC.pdb

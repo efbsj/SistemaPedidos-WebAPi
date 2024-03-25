@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vO0Mktc4kU/MReuGMiqaCJH4Rz+248rv0/Rix9HQ8ICW83UadbEh/b0sIxCH+RyuEXuxdvGKlDBwS1QJuxQRqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Sistemas\\SistemaPedidos-WebAPi\\Pedidos.Application\\Pedidos.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fernando.sousa\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\fernando.sousa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\fernando.sousa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\fernando.sousa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\fernando.sousa\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\bin\Debug\netcoreapp3.1\Pedidos.Application.deps.json
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\bin\Debug\netcoreapp3.1\Pedidos.Application.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\bin\Debug\netcoreapp3.1\Pedidos.Application.pdb
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\bin\Debug\netcoreapp3.1\Pedidos.Domain.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\bin\Debug\netcoreapp3.1\Pedidos.Domain.pdb
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\obj\Debug\netcoreapp3.1\Pedidos.Application.csproj.AssemblyReference.cache
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\obj\Debug\netcoreapp3.1\Pedidos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\obj\Debug\netcoreapp3.1\Pedidos.Application.AssemblyInfoInputs.cache
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\obj\Debug\netcoreapp3.1\Pedidos.Application.AssemblyInfo.cs
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\obj\Debug\netcoreapp3.1\Pedidos.Application.csproj.CoreCompileInputs.cache
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\obj\Debug\netcoreapp3.1\Pedidos.Application.csproj.CopyComplete
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\obj\Debug\netcoreapp3.1\Pedidos.Application.dll
+C:\Sistemas\Pedidos-WebAPI\Pedidos.Application\obj\Debug\netcoreapp3.1\Pedidos.Application.pdb
